@@ -21,6 +21,7 @@ Bathrooms
   Closing Price
   Closing Price per Sqft
   Flooring Value based on type
+  Days on Market
   Close Date
   Close Month
   Mortgage Rate at time of sale
